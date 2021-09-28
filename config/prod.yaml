@@ -1,0 +1,4 @@
+database: "spase.db"
+prefix: "$"
+activity: "you sleep."
+logfile: "spase.log"

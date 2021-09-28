@@ -1,0 +1,5 @@
+database: "test.db"
+prefix: "$$"
+activity: "the original Spase Bot suck."
+logfile: "test.log"
+mode: "dev"
